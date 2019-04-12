@@ -1,0 +1,3 @@
+- create virtual environment
+virtualenv <choose_name>
+c:\<choose_name>\Scripts\activate
